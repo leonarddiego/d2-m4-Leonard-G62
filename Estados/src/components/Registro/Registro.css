@@ -1,0 +1,18 @@
+.registro {
+    width: 370px;
+    background-color: #FFF;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+h2 {
+    margin-bottom: 24px;
+}
+
+.social {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-bottom: 16px;
+    place-content: center;
+}
